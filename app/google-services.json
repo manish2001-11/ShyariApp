@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359953015267",
+    "project_id": "shyariapp-a08ea",
+    "storage_bucket": "shyariapp-a08ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359953015267:android:e35a5c9f2862baf45b00d6",
+        "android_client_info": {
+          "package_name": "com.example.shyariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359953015267-t5tai83bhfporbj725plvcgmjinqnnn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5wv216fw-1MTkEI7EOh6bITykWUwNtEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359953015267-t5tai83bhfporbj725plvcgmjinqnnn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
